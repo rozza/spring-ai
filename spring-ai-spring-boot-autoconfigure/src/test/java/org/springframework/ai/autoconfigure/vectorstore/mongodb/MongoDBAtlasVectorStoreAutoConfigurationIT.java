@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.springframework.ai.autoconfigure.vectorstore.mongo;
+package org.springframework.ai.autoconfigure.vectorstore.mongodb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.ai.autoconfigure.openai.OpenAiAutoConfiguration;
